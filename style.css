@@ -1,0 +1,117 @@
+
+.social
+{
+    /* color:rgb(255, 255, 255); */
+    list-style-type: none;  
+      
+}
+.social > li{
+    display: inline-block;
+      padding-right: 10px; 
+     margin-top: 12px; 
+} 
+.moto{
+    font-size:15px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+     padding-top: 12px; 
+}
+    
+.btn-top{
+    color:black !important;
+    border-radius: 0px; 
+    border:1px solid black;
+    font-size: 13px;
+    margin-top: 10px;
+    width:auto;
+}
+.top-bar{
+background-color:#316DC3;
+}
+.no-margin{
+    margin:0px;
+    padding:0px;
+}
+
+.navbar-brand img{
+    margin-left: 60px;
+}
+.navbar .nav-item:not(:last-child) {
+    margin-right: 18px;
+  }
+  
+  .dropdown-toggle::after {
+     transition: transform 0.15s linear; 
+  }
+  
+  .show.dropdown .dropdown-toggle::after {
+    transform: translateY(3px);
+  }
+  
+  .dropdown-menu {
+    margin-top: 0;
+  }
+
+  .m{
+    margin-top: 12px;
+    background-color: #316DC3;
+    color: white;
+    width: auto;
+    height: auto;
+  }
+
+  .about {
+    background-color: #f7f8fa;
+        }
+
+    .about .row{
+       justify-content: center;
+
+    }
+
+    .fiqurn {
+      margin-top: 12px;
+      background-color: #316DC3;
+
+    }
+    
+    .num {
+      font-size: 40px;
+      margin: 20px 0;
+    }
+    .owns {
+      position: relative;
+      margin-top: 45px;
+      left: 60px;
+      background-color: silver lightcyan;
+    }
+
+    .mau .icon-box{
+      background-color: #f7f8fa ;
+      margin-top: 30px;
+      border: 1px solid lightgray;
+      
+    }
+    .mau .icon-box{
+      text-align: center;
+      padding-top: 10px;
+    }
+
+    .portfolio{
+      text-align: center;
+      }
+    
+      .portfolio .row{
+        padding: 40px;
+      }
+      .footer{
+        background-color: #333333;
+      }
+      
+      .footer-bottom{
+        background-color: #316dc3;
+      }
+     
+    
+    
+   
